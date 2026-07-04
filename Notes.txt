@@ -1,0 +1,74 @@
+credentials:
+=====================
+GITHUB:
+------------
+https://github.com/
+asifparveen0328@gmail.com
+Mdasif@0328
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=SonKBE668AY&list=PLx8HYVzPNOImIT7msbXNkk5KVHje8cKB2&index=2
+
+
+
+
+
+from session 54 GIT lessons will start...
+
+
+
+
+
+
+
+
+
+
+
+
+
+aws IAM User credentials
+=========================
+
+https://845893728140.signin.aws.amazon.com/console
+
+user: asif
+pwd: Mdasif@0328
+
+
+ip creation table:
+----------------------
+10.0.0.0/16  => 65536
+10.0.0.0/17  => 32768
+10.0.0.0/18  => 16384
+
+
+10.0.0.0/19  => 8192
+10.0.0.0/20  => 4096
+10.0.0.0/21  => 2048
+
+10.0.0.0/22  => 1024
+10.0.0.0/23  => 512
+10.0.0.0/24  => 256
+
+10.0.0.0/25  => 128
+10.0.0.0/26  => 64
+10.0.0.0/27  => 32
+
+10.0.0.0/28  => 16
+10.0.0.0/29  => 8
+10.0.0.0/30  => 4
+
+10.0.0.0/31  => 2
+10.0.0.0/32  => 1
+
+
+
